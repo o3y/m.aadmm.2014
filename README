@@ -1,0 +1,40 @@
+==============================================================================
+	AADMM: Example codes for the accelerated (linearized) ADMM algorithm
+==============================================================================
+
+Copyright (C) 2014  Yuyuan Ouyang, Yunmei Chen, Guanghui Lan and Eduardo Pasiliao Jr.
+
+1. License
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>
+
+2. Reference
+
+For details of the AADMM codes, please refer to the following paper:
+
+Ouyang, Yuyuan, Yunmei Chen, Guanghui Lan, and Eduardo Pasiliao Jr., 
+An Accelerated Linearized Alternating Direction Method of Multipliers.
+arXiv preprint arXiv:1401.6607 (2014).
+
+3. Reference on BOSVS
+
+The PPI example compares AADMM with an existing L-ADMM algorithm with backtracking, 
+namely, BOSVS, that was published in
+
+Chen, Yunmei, William W. Hager, Maryam Yashtini, Xiaojing Ye, and Hongchao Zhang, 
+Bregman operator splitting with variable stepsize for total variation image reconstruction. 
+Computational Optimization and Applications 54, no. 2 (2013): 317-342.
+
+For the BOSVS codes, please refer to Xiaojing Ye's website,
+http://people.math.gatech.edu/~xye33/software.html
