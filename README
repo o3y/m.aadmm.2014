@@ -27,6 +27,11 @@ Ouyang, Yuyuan, Yunmei Chen, Guanghui Lan, and Eduardo Pasiliao Jr.,
 An Accelerated Linearized Alternating Direction Method of Multipliers.
 arXiv preprint arXiv:1401.6607 (2014).
 
+3. Reference on PPI dataset
+
+Please acknowledge Invivo Philips, Gainesville, FL for providing the
+PPI brain scan datasets. 
+
 3. Reference on BOSVS
 
 The PPI example compares AADMM with an existing L-ADMM algorithm with backtracking, 
@@ -37,4 +42,4 @@ Bregman operator splitting with variable stepsize for total variation image reco
 Computational Optimization and Applications 54, no. 2 (2013): 317-342.
 
 For the BOSVS codes, please refer to Xiaojing Ye's website,
-http://people.math.gatech.edu/~xye33/software.html
+http://www.math.gsu.edu/~xye/
