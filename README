@@ -24,8 +24,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 For details of the AADMM codes, please refer to the following paper:
 
 Ouyang, Yuyuan, Yunmei Chen, Guanghui Lan, and Eduardo Pasiliao Jr., 
-An Accelerated Linearized Alternating Direction Method of Multipliers.
-arXiv preprint arXiv:1401.6607 (2014).
+An Accelerated Linearized Alternating Direction Method of Multipliers. 
+SIAM Journal on Imaging Sciences, Vol. 8(1), pp. 644–681, 2015.
 
 3. Reference on PPI dataset
 
